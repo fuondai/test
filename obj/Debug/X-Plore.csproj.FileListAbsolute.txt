@@ -1,0 +1,123 @@
+D:\UIT\HK2 Năm 2\Lap trinh mang\Demo\Do an\X-Plore\bin\Debug\X-Plore.exe.config
+D:\UIT\HK2 Năm 2\Lap trinh mang\Demo\Do an\X-Plore\bin\Debug\X-Plore.exe
+D:\UIT\HK2 Năm 2\Lap trinh mang\Demo\Do an\X-Plore\bin\Debug\X-Plore.pdb
+D:\UIT\HK2 Năm 2\Lap trinh mang\Demo\Do an\X-Plore\bin\Debug\Guna.UI2.dll
+D:\UIT\HK2 Năm 2\Lap trinh mang\Demo\Do an\X-Plore\obj\Debug\X-Plore.csproj.AssemblyReference.cache
+D:\UIT\HK2 Năm 2\Lap trinh mang\Demo\Do an\X-Plore\obj\Debug\X_Plore.FormDangKy.resources
+D:\UIT\HK2 Năm 2\Lap trinh mang\Demo\Do an\X-Plore\obj\Debug\X_Plore.FormDangNhap.resources
+D:\UIT\HK2 Năm 2\Lap trinh mang\Demo\Do an\X-Plore\obj\Debug\X_Plore.Dangky_Dangnhap.Xac_thuc_dky.resources
+D:\UIT\HK2 Năm 2\Lap trinh mang\Demo\Do an\X-Plore\obj\Debug\X_Plore.Main.HomeScreen.resources
+D:\UIT\HK2 Năm 2\Lap trinh mang\Demo\Do an\X-Plore\obj\Debug\X_Plore.Properties.Resources.resources
+D:\UIT\HK2 Năm 2\Lap trinh mang\Demo\Do an\X-Plore\obj\Debug\X-Plore.csproj.GenerateResource.cache
+D:\UIT\HK2 Năm 2\Lap trinh mang\Demo\Do an\X-Plore\obj\Debug\X-Plore.csproj.CoreCompileInputs.cache
+D:\UIT\HK2 Năm 2\Lap trinh mang\Demo\Do an\X-Plore\obj\Debug\X-Plore.csproj.Up2Date
+D:\UIT\HK2 Năm 2\Lap trinh mang\Demo\Do an\X-Plore\obj\Debug\X-Plore.exe
+D:\UIT\HK2 Năm 2\Lap trinh mang\Demo\Do an\X-Plore\obj\Debug\X-Plore.pdb
+D:\UIT\HK2 Năm 2\Lap trinh mang\Demo\Do an\X-Plore\obj\Debug\X_Plore.Main.MainMenu.resources
+C:\Users\dadad\Downloads\Xplore\obj\Debug\X-Plore.csproj.AssemblyReference.cache
+C:\Users\dadad\Downloads\Xplore\obj\Debug\X_Plore.Chat.General.resources
+C:\Users\dadad\Downloads\Xplore\obj\Debug\X_Plore.Chat.GroupChat_Member.resources
+C:\Users\dadad\Downloads\Xplore\obj\Debug\X_Plore.Chat.Group_chat_admin.resources
+C:\Users\dadad\Downloads\Xplore\obj\Debug\X_Plore.Chat.InviteUser.resources
+C:\Users\dadad\Downloads\Xplore\obj\Debug\X_Plore.FormDangKy.resources
+C:\Users\dadad\Downloads\Xplore\obj\Debug\X_Plore.FormDangNhap.resources
+C:\Users\dadad\Downloads\Xplore\obj\Debug\X_Plore.Dangky_Dangnhap.Xac_thuc_dky.resources
+C:\Users\dadad\Downloads\Xplore\obj\Debug\X_Plore.Forms.EmailVerify.resources
+C:\Users\dadad\Downloads\Xplore\obj\Debug\X_Plore.Forms.ForgottenPassword.resources
+C:\Users\dadad\Downloads\Xplore\obj\Debug\X_Plore.Forms.LoginForm.resources
+C:\Users\dadad\Downloads\Xplore\obj\Debug\X_Plore.Forms.RegisterForm.resources
+C:\Users\dadad\Downloads\Xplore\obj\Debug\X_Plore.Main.HomeScreen.resources
+C:\Users\dadad\Downloads\Xplore\obj\Debug\X_Plore.Main.MaHoaFile.resources
+C:\Users\dadad\Downloads\Xplore\obj\Debug\X_Plore.Main.MainMenu.resources
+C:\Users\dadad\Downloads\Xplore\obj\Debug\X_Plore.Properties.Resources.resources
+C:\Users\dadad\Downloads\Xplore\obj\Debug\X-Plore.csproj.GenerateResource.cache
+C:\Users\dadad\Downloads\Xplore\obj\Debug\X-Plore.csproj.CoreCompileInputs.cache
+C:\Users\dadad\Downloads\Xplore\obj\Debug\X-Plore.exe
+C:\Users\dadad\Downloads\Xplore\obj\Debug\X-Plore.pdb
+C:\Users\dadad\Downloads\Xplore\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\dadad\Downloads\Xplore\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\dadad\Downloads\Xplore\bin\Debug\X-Plore.exe.config
+C:\Users\dadad\Downloads\Xplore\bin\Debug\X-Plore.exe
+C:\Users\dadad\Downloads\Xplore\bin\Debug\X-Plore.pdb
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Api.Gax.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Apis.Auth.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Apis.Core.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Apis.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Cloud.Firestore.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Cloud.Firestore.V1.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Cloud.Location.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.LongRunning.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Protobuf.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Grpc.Auth.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Grpc.Core.Api.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Grpc.Core.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Grpc.Net.Client.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Grpc.Net.Common.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Guna.UI2.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\System.Buffers.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\System.CodeDom.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\System.Collections.Immutable.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\System.Linq.Async.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\System.Memory.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\System.ValueTuple.dll
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Api.Gax.pdb
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Api.Gax.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Apis.pdb
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Apis.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Apis.Auth.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Apis.Core.pdb
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Apis.Core.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Cloud.Firestore.pdb
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Cloud.Firestore.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Cloud.Firestore.V1.pdb
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Cloud.Firestore.V1.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Cloud.Location.pdb
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Cloud.Location.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.LongRunning.pdb
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.LongRunning.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Protobuf.pdb
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Google.Protobuf.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Grpc.Auth.pdb
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Grpc.Auth.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Grpc.Core.pdb
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Grpc.Core.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Grpc.Core.Api.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Grpc.Net.Client.pdb
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Grpc.Net.Client.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Grpc.Net.Common.pdb
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Grpc.Net.Common.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\System.Buffers.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\System.CodeDom.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\System.Collections.Immutable.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\System.Linq.Async.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\System.Memory.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dadad\Downloads\Xplore\bin\Debug\System.ValueTuple.xml
+C:\Users\dadad\Downloads\Xplore\obj\Debug\X-Plore.csproj.Up2Date
